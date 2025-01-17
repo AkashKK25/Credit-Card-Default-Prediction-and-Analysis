@@ -29,7 +29,7 @@
 </a>
 
 <a style="display: inline-block;" href="Credit_Card_Default_Prediction_and_Analysis.ipynb">
-<img src="img\sklearn-logo.png" width="100" height="100" />
+<img src="img\sklearn-logo.png" height="100" />
 </a>
 
 ---
